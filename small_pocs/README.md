@@ -8,7 +8,9 @@ To activate this virtualenv, run:
 
 Install the following libraries:
 	pip install Flask
-	
+	pip install flask-wtf
+	pip install flask-moment
+	pip install flask-bootstrap	
 
 To deactivate this virtualenv, run:
 	deactivate
