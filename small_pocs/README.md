@@ -11,6 +11,7 @@ Install the following libraries:
 	pip install flask-wtf
 	pip install flask-moment
 	pip install flask-bootstrap	
+	pip install flask-sqlalchemy
 
 To deactivate this virtualenv, run:
 	deactivate
